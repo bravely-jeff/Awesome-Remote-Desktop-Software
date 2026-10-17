@@ -1,6 +1,6 @@
 # Awesome-Remote-Desktop-Software
 
-# Top Remote Desktop Software Ecosystem
+## Top Remote Desktop Software Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Self-Hosted Sovereignty, Attended Support & Multi-Platform Access*  
